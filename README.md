@@ -1,1 +1,0 @@
-# UX_UI_HW_20UX_UI_HW_20_V2
