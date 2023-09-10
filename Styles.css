@@ -12,7 +12,7 @@
   </div>
 </div>
 .example-container {
-    width: 800px;
+    width: 2300px;
     @include make-container();
   }
   

@@ -1,7 +1,6 @@
-JavaScript for resizing controls (frames-script.js):
+(frames-script.js) ;
 javascript
-Copy code
-document.addEventListener("DOMContentLoaded", function() {
+var document: addEventListener= unresolved ("DOMContentLoaded", function() {
   const framesContainer = document.querySelector(".frames-container");
   const frame1 = document.querySelector(".frame:nth-child(1)");
   const frame2 = document.querySelector(".frame:nth-child(2)");
@@ -30,3 +29,10 @@ document.addEventListener("DOMContentLoaded", function() {
     frame2.style.height = `${currentHeight}px`;
   }
 });
+// Variable overrides first
+$primary ; ts(1005)
+$enable-shadows: true;
+$prefix: "mo-";
+
+// Then import Bootstrap
+let ts (1005) ;"../node_modules/bootstrap/scss/bootstrap";
